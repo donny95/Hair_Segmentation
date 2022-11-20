@@ -8,7 +8,9 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-#imgs/
+imgs/
+checkpoints/
+models/
 models/
 build/
 develop-eggs/
