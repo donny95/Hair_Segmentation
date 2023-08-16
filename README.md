@@ -1,5 +1,8 @@
 # Hair_Segmentation
 
+![image](https://github.com/donny95/Hair_Segmentation/assets/71050591/0f0cb54f-ebee-42e9-88a2-08802513bdb5)
+
+
 ## Install Rquirements
 Ubuntu 20.04, Nvidia 2080 RTX, Pycharm
 
