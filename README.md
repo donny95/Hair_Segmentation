@@ -5,6 +5,21 @@ Ubuntu 20.04, Nvidia 2080 RTX, Pycharm
 
 <br>
 
+
+<br>
+## Train
+* The 'Train Dataset' was collected directly using a web camera. I trained five behaviors, and they work well.
+* I collected upper body action. But if you want to train whole body detector, it's possoble. 
+
 ```
-pip install -r requirements.txt
+python train.py
 ```
+
+
+## Test
+* Real-time detection is possible using web camera.
+* I use just CPU enviroments, it's fine.
+```
+python evaluate.py
+```
+<br><br>
